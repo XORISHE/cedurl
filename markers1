@@ -1,11 +1,11 @@
 {
    "markers" : [
       {
-         "pin" : "green",
-         "text" : "This is a sample marker!\nIt spans two lines of text.",
-         "x" : -104.625,
-         "y" : -0.8125,
-         "z" : -151.906
+         "pin" : "white",
+         "text" : "Shrogaae KK-A d983",
+         "x" : 4959.03125,
+         "y" : 149.96875,
+         "z" : 20725.90625
       },
       {
          "pin" : "carrier",
