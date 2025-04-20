@@ -8,11 +8,11 @@
          "z" : 20725.90625
       },
       {
-         "pin" : "carrier",
-         "text" : "This is a sample marker too!",
-         "x" : -247.812,
-         "y" : -43.8438,
-         "z" : 64.0312
+         "pin" : "green",
+         "text" : "Shrogaae KK-A d38",
+         "x" : 4961.03125,
+         "y" : 146.65625,
+         "z" : 20739.375
       }
    ]
 }
