@@ -9,7 +9,7 @@
       },
       { "pin" : "red", "text" : "Obiedo\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5", "x" : 1000.03125, "y" : 149.96875, "z" : 20725.90625 },
             { "pin" : "yellow", "text" : "Obiedo\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5", "x" : 1000.03125, "y" : 100.96875, "z" : 10000.90625 },
-            { "pin" : "white", "text" : "Vulcan Homeworld", "x" : 20, "y" : 30, "z" : 40 },
+            { "pin" : "cyan", "text" : "LHS 3006\nVulcan\nVulcan Homeworld", "x" : 20, "y" : 30, "z" : 40 },
             { "pin" : "white", "text" : "Vulcan Homeworld", "x" : 50, "y" : 30, "z" : 40 },
             { "pin" : "white", "text" : "Vulcan Homeworld", "x" : 90, "y" : 30, "z" : 40 },
       {
