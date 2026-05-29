@@ -2,14 +2,14 @@
    "markers" : [
       {
          "pin" : "white",
-         "text" : "Shrogaae KK-A d983",
+         "text" : "Shrogaae KK-A d983\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5",
          "x" : 4959.03125,
          "y" : 149.96875,
          "z" : 20725.90625
       },
       {
          "pin" : "green",
-         "text" : "Shrogaae KK-A d38",
+         "text" : "Many references, Project Hail mary, the expanse, System shock, Robot series, Hyperion, Rama, Larry Niven Known space series Plateau and Wunderland, Alastair Reynolds Revelation space Ararat",
          "x" : 4961.03125,
          "y" : 146.65625,
          "z" : 20739.375
