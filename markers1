@@ -7,7 +7,9 @@
          "y" : 149.96875,
          "z" : 20725.90625
       },
-      { "pin" : "cyan", "text" : "LHS 3006\n\n(Non canonical) Vulcan Homeworld", "x" : -21.96875, "y" : 29.09375, "z" : -1.71875 },
-      { "pin" : "cyan", "text" : "61 Virginis\n\nKen Liu - Mono no Aware destination star of the ship Hopeful\nAlastair Reynolds - On the Steel Breeze", "x" : 14.8125, "y" : 19.28125, "z" : 13.65625 }
+      { "pin" : "cyan", "text" : "Alpha Cygni\nDeneb\nST-TNG Encounter at Farpoint - Bandi on Deneb 4\nHome of the Silver surfer\nAnne McCaffrey novel - The Rowan series\nRoadside picnic\nHyperion Cantos by Dan Simmons", "x" : -1405, "y" : 46.125, "z" : 132.5 },
+      { "pin" : "cyan", "text" : "Beta Lyrae\nSheliak\nST Home of the Sheliak Corporate\nLarry Niven Known space series  - planet Cue Ball", "x" : -833.09375, "y" : 240.125, "z" : 417.125 },
+      { "pin" : "cyan", "text" : "Antares\nAlpha Scorpii\nST The Federation Shipyards\nHHG2G\nBabylon 5 universe\nJoe Halderman - The Forever War\nDr Who - The Antares Convention", "x" : 71.5, "y" : 138.40625, "z" : 531.375 },
+      { "pin" : "cyan", "text" : "Betelgeuse\nAlpha Orionis\nHHG2G - Home system of Ford Prefect and Zaphod Beeblebrox\nST-TMP Home of the The Betelgeusians\nThe Demolished Man by Alfred Bester", "x" : 169.40625, "y" : -72.5, "z" : -462.625 }
    ]
 }
