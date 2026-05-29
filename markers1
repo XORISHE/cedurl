@@ -8,7 +8,7 @@
          "z" : 20725.90625
       },
       { "pin" : "red", "text" : "Obiedo\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5", "x" : 1000.03125, "y" : 149.96875, "z" : 20725.90625 },
-      { "pin" : "yellow", "text" : "Obiedo\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5", "x" : 1000.03125, "y" : 1000.96875, "z" : 20725.90625 },
+      { "pin" : "yellow", "text" : "Obiedo\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5", "x" : 1000.03125, "y" : 100.96875, "z" : 10000.90625 },
       {
          "pin" : "green",
          "text" : "Project Hail mary\nThe expanse (Destination of the Narvoo)\nSystem shock\nRobot series by Asimov\nHyperion series by Dan Simmons\nRama by Arthur C Clark\nLarry Niven Known space series Plateau and Wunderland\nAlastair Reynolds Revelation space Ararat",
