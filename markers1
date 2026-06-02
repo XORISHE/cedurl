@@ -1,7 +1,7 @@
 {
    "markers" : [
       {
-         "pin" : "red",
+         "pin" : "blue",
          "text" : "Shrogaae KK-A d983\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5",
          "x" : 4959.03125,
          "y" : 149.96875,
@@ -1758,7 +1758,7 @@
       { "pin" : "blue", "text" : "Circinus Pulsar\nThe Circinus Pulsar\n", "x" : 10852.1, "y" : -344.688, "z" : 13081 },
       { "pin" : "blue", "text" : "PSR J1846-0258\nThe Kes-75 Magnetar\n", "x" : -8886.75, "y" : -75.1562, "z" : 15572.6 },
       { "pin" : "blue", "text" : "Vela Pulsar\n\n", "x" : 905.938, "y" : -44.4062, "z" : -102.406 },
-      { "pin" : "yellow", "text" : "Froaln II-W b7-1\n"Süßes Fräulein" (Stellar Forge)\n", "x" : -10136.2, "y" : 1085, "z" : 14474.9 },
+      { "pin" : "yellow", "text" : "Froaln II-W b7-1\n'Süßes Fräulein' (Stellar Forge)\n", "x" : -10136.2, "y" : 1085, "z" : 14474.9 },
       { "pin" : "yellow", "text" : "Cliewoae NT-F d12-0\nAbyssinial Hidden Paradise\n", "x" : -5231.97, "y" : -132.531, "z" : 61470.8 },
       { "pin" : "yellow", "text" : "Aishaint RY-H d10-47\nAwjila\n", "x" : 11241.8, "y" : 574.344, "z" : 34409.9 },
       { "pin" : "yellow", "text" : "Gooreia IB-F d11-14\nBeetle Burial Grounds\n", "x" : -5271.12, "y" : -1146.22, "z" : 39597.2 },
