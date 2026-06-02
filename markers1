@@ -1,7 +1,7 @@
 {
    "markers" : [
       {
-         "pin" : "blue",
+         "pin" : "green",
          "text" : "Shrogaae KK-A d983\nthis is line 2\nand this is line 3\nand this is line 4\nand this is line 5",
          "x" : 4959.03125,
          "y" : 149.96875,
@@ -1575,7 +1575,7 @@
       { "pin" : "yellow", "text" : "PSR J0751+1807\n🌟 PSR J0751+1807 (Keck Binary Pulsar)\nStellar Features", "x" : 470.094, "y" : 469.125, "z" : -1122.22 },
       { "pin" : "yellow", "text" : "Dryau Ausms YE-A f121\n🌟 Pendulum\nStellar Features", "x" : -2550.16, "y" : 1763.34, "z" : 20826.2 },
       { "pin" : "yellow", "text" : "Scheareou LI-H d11-27\n🌟 Poritt's Twins\nStellar Features", "x" : 26801.4, "y" : -213.781, "z" : 34468.5 },
-      { "pin" : "yellow", "text" : "Sagittarius A*\n🌟 Sagittarius A*\nStellar Features", "x" : 25.2188, "y" : -20.9062, "z" : 25900 },
+      { "pin" : "red", "text" : "Sagittarius A*\n🌟 Sagittarius A*\n🕳️🏆 Galactic Record: Supermassive black hole at the centre of the Milky Way and the most famous black hole destination in Elite Dangerous", "x" : 25.2188, "y" : -20.9062, "z" : 25900 },
       { "pin" : "yellow", "text" : "Phrooe Blou AA-A h62\n🌟 Scylla and Charybdis\nStellar Features", "x" : 18971.9, "y" : -72.5625, "z" : 34278.7 },
       { "pin" : "yellow", "text" : "Synuefai ZL-O b51-0\n🌟 Shepherd's Warning\nStellar Features", "x" : -561.344, "y" : -520.281, "z" : 48.125 },
       { "pin" : "yellow", "text" : "Mynoaw AA-A h26\n🌟 Singularities' Playground\nStellar Features", "x" : 4027.03, "y" : -307.344, "z" : 18527.5 },
@@ -1596,7 +1596,7 @@
       { "pin" : "yellow", "text" : "Eok Blou FG-Y g1252\n🌟 Tricone Crucible\nStellar Features", "x" : -1960.59, "y" : -921.812, "z" : 27871.5 },
       { "pin" : "yellow", "text" : "Dehue WV-M d7-27\n🌟 Two Pair Stare\nStellar Features", "x" : -21782.7, "y" : -864.688, "z" : 9825.31 },
       { "pin" : "yellow", "text" : "V381 Normae\n🌟 V381 Normae (Black Hole)\nStellar Features", "x" : 9530.28, "y" : -542, "z" : 14067 },
-      { "pin" : "yellow", "text" : "VY Canis Majoris\n🌟 VY Canis Majoris\nStellar Features", "x" : 1576.06, "y" : -150.219, "z" : -922.531 },
+      { "pin" : "red", "text" : "VY Canis Majoris\n🌟 VY Canis Majoris\n🏆 Largest Known Star in Elite Dangerous: VY Canis Majoris is a red hypergiant with a radius of approximately 1,420 solar radii, making it the largest known star currently present in the game", "x" : 1576.06, "y" : -150.219, "z" : -922.531 },
       { "pin" : "yellow", "text" : "Ploi Aeg GL-V c16-0\n🌟 Vortex of Selene\nStellar Features", "x" : -2939.34, "y" : 1499.72, "z" : 7340.25 },
       { "pin" : "yellow", "text" : "Fojea HG-X d1-1\n🌟 11 In A Row\nStellar Features", "x" : -22521.7, "y" : 337.938, "z" : 2988.25 },
       { "pin" : "yellow", "text" : "15 Sagittarii\n🌟 15 Sagittarii\nStellar Features", "x" : -6109.19, "y" : -1334.66, "z" : 32011.3 },
@@ -1750,6 +1750,8 @@
       { "pin" : "white", "text" : "Jackson's Lighthouse\n📡 Jackson's Lighthouse\nTourist Beacon", "x" : 157, "y" : -27, "z" : -70 },
       { "pin" : "white", "text" : "Elephant's Trunk Sector XO-A c1\n📡 No Name - Invalid Destination\nTourist Beacon", "x" : -2662.88, "y" : 179.375, "z" : -529.469 },
       { "pin" : "white", "text" : "Eoch Pruae JS-R d5-2055\n📡 Order in the Heavens\nTourist Beacon", "x" : -8249.62, "y" : -322.156, "z" : 19965.9 },
-      { "pin" : "white", "text" : "Pludgu QK-F d11-0\n📡 Under A Steel Sky\nTourist Beacon", "x" : -3898.03, "y" : -2337.69, "z" : -3935.94 }
+      { "pin" : "white", "text" : "Pludgu QK-F d11-0\n📡 Under A Steel Sky\nTourist Beacon", "x" : -3898.03, "y" : -2337.69, "z" : -3935.94 },
+      { "pin" : "red", "text" : "KOI 1701\nVia Gravitatis\n🏆 Gravity Record: Planet 1 has a surface gravity of approximately 45.3 g, making it the strongest known landable gravity well in Elite Dangerous\n", "x" : -5931.0625, "y" : 887.75, "z" : 1361.28125 },
+      { "pin" : "red", "text" : "Flyiedgiae QN-T d3-17\nQuantum World\n🏆 Size Record: AB 1 B has a radius of 137 km, tying for the smallest known landable world in Elite Dangerous", "x" : -3423.8125, "y" : -1029.8125, "z" : 8254.9375 }
    ]
 }
